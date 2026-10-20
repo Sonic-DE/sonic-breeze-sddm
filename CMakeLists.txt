@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(sonic-breeze-sddm VERSION 6.7.5 LANGUAGES CXX)
+project(sonic-breeze-sddm VERSION 6.8.0 LANGUAGES CXX)
 
 set(KF6_MIN_VERSION "6.26.0")
 
